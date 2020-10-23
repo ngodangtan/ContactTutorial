@@ -6,3 +6,6 @@
 //
 
 import Foundation
+struct Contact {
+    var fullname: String
+}
